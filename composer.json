@@ -1,0 +1,18 @@
+{
+    "name": "hrgweb/botbuilders",
+    "autoload": {
+        "psr-4": {
+            "Hrgweb\\Botbuilders\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hergen Roque Gamayon",
+            "email": "gamayonhergenroque.web@gmail.com"
+        }
+    ],
+    "require": {
+        "spatie/laravel-data": "*",
+        "cybercog/laravel-optimus": "*"
+    }
+}
